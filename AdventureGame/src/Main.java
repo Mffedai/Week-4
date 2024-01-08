@@ -5,4 +5,4 @@ public class Main {
         game.start();
     }
 }
-//RNDDAMAGE VE AWARDS EKLE >> SNAKE.JAVA
+//SNAKE.JAVA class ında generateAwards() bölümü eksik.
